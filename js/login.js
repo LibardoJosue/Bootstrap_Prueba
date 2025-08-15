@@ -9,7 +9,8 @@ const usuarios = [
     { email: "david@correo.com", password: "dav123" },
     { email: "paula@correo.com", password: "Pau123" },
     { email: "jose@correo.com", password: "jos123" },
-    { email: "valentina@correo.com", password: "val123" }
+    { email: "valentina@correo.com", password: "val123" },
+    { email: "libardojosuec@gmail.com", password: "ljc123" }
 ];
 
 document.getElementById("loginForm").addEventListener("submit", function (e) {
